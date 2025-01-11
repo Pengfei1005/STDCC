@@ -1,2 +1,2 @@
-# STDCC
-STDCC：Spatial and Temporal Decay Model for Remote Sensing Image Change Captioning
+# STDA
+STDA：Spatial and Temporal Decay Attentive Model for Remote Sensing Image Change Captioning
